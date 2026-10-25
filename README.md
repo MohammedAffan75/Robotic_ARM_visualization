@@ -1,6 +1,6 @@
 # RoboKin 3-DOF | Interactive Robot Arm Kinematics Simulator
 
-# Live Link : https://robotic-arm-visualization.vercel.app/
+### Live Link : https://robotic-arm-visualization.vercel.app/
 
 A web-based 3-DOF robot arm kinematics and singularity simulator built with **Vite**, **React 18**, **TypeScript (Strict Mode)**, **Three.js**, **@react-three/fiber**, **@react-three/drei**, **Zustand**, and **Tailwind CSS**.
 
